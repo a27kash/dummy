@@ -1,7 +1,7 @@
 {
-"name":"name2",
-"author":"author",
-"description":"desc2",
-"keywords":["key2","key3"],
-"version":"0.1"
+"name":"A Great Plugin for Tokenization",
+"author":"Fortanix Inc.",
+"description":"Allows token creation. A few lines about this plugin. May be restrict upto 250 characters to describe this plugin. This is the version 4.6",
+"keywords":["TOKENIZATION"],
+"version":"4.6"
 }
