@@ -3,5 +3,5 @@
 "author":"Fortanix Inc.",
 "description":"Allows token creation. A few lines about this plugin. May be restrict upto 250 characters to describe this plugin. This is the version 0.23",
 "keywords":["NET BANKING"],
-"version":"0.23"
+"version":"0.27"
 }
